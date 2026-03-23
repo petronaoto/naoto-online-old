@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>RSS</title>
+    <link>http://naoto.online/rss.xml</link>
+    <description>梯次郎物語 新着ブログ一覧</description>
+    <item>
+      <title>うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。</title>
+      <link>http://naoto.online/portfolio/dummy03.html</link>
+      <description>わたくしは半分わらうように半分つぶやくようにしながら、向うの信号所からいつも放して遊ばせる輪道の内側の野原、ポプラの中から顔をだしている市はずれの白い教会の塔までぐるっと見まわしました。</description>
+      <pubDate>Tue, 02 Apr 2019 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://naoto.online/portfolio/dummy03.html</guid>
+      <dc:date>2019-04-02T18:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>あんまりいい天気なもんだから大将ひとりででかけたな。</title>
+      <link>http://naoto.online/portfolio/dummy01.html</link>
+      <description>わたくしは半分わらうように半分つぶやくようにしながら、向うの信号所からいつも放して遊ばせる輪道の内側の野原、ポプラの中から顔をだしている市はずれの白い教会の塔までぐるっと見まわしました。</description>
+      <pubDate>Sun, 31 Mar 2019 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://naoto.online/portfolio/dummy01.html</guid>
+      <dc:date>2019-03-31T18:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>ファゼーロとロザーロ、羊飼のミーロや、顔の赤いこどもたち</title>
+      <link>http://naoto.online/portfolio/dummy02.html</link>
+      <description>わたくしは半分わらうように半分つぶやくようにしながら、向うの信号所からいつも放して遊ばせる輪道の内側の野原、ポプラの中から顔をだしている市はずれの白い教会の塔までぐるっと見まわしました。</description>
+      <pubDate>Fri, 01 Mar 2019 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://naoto.online/portfolio/dummy02.html</guid>
+      <dc:date>2019-03-01T18:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>

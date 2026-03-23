@@ -1,0 +1,2 @@
+<link href="//fonts.googleapis.com/css?family=Cabin:regular,italic,500,500italic,600,600italic,700,700italic" rel="stylesheet" type="text/css">
+<link href="//module.bindsite.jp/type-fonts/css/sourcehansans.css" rel="stylesheet" type="text/css">

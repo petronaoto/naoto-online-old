@@ -1,0 +1,38 @@
+h1 {
+    font-size: 24px;
+    background-color: #f05090;
+    padding: 8px;
+    color: white;
+}
+
+#items {
+	margin: 12px;
+}
+
+#items p {
+	font-size: 16px;
+	border-bottom: 4px solid #f09090;
+	border-right: 6px solid #f09090;
+	padding: 12px;
+	margin: 12px;
+	background-color: #fff0f0;
+}
+#items a {
+	padding: 8px;
+	text-decoration: none;
+}
+#items input[type=text] {
+	width: 300px;
+	font-size: 16px;
+	padding: 8px;
+}
+#items input[type=submit] {
+	font-size: 24px;
+	padding: 8px;
+	width: 60px;
+	margin: 8px;
+}
+
+#items p.frm {
+	background-color: #fff0ff;
+}

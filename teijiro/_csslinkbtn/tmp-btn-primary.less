@@ -1,0 +1,61 @@
+// Declaring variables
+@background-color:#111111;
+@border:#111111;
+@color:#ffffff;
+@background-color-hover:#f0f0f0;
+@border-hover:#111111;
+@color-hover:#111111;
+
+// Using variables
+a.btn-primary{
+	position: relative !important;
+	display: inline-block !important;
+	background: @background-color !important;
+	color: @color !important;
+	border: none !important;
+	border-radius: 0 !important;
+	width: 100% !important;
+	font-size: 120% !important;
+	line-height: 1.9 !important;
+	text-align: center !important;
+	text-decoration: none !important;
+	cursor:pointer !important;
+	padding: 1em 2em !important;
+	transition: all 0.4s !important;
+}
+a.btn-primary:visited{
+	background: @background-color !important;
+	color: @color !important;
+	border: none !important;
+	text-decoration: none !important;
+}
+a.btn-primary:active{
+	background: @background-color-hover !important;
+	color: @color-hover !important;
+	border: none !important;
+	text-decoration: none !important;
+}
+a.btn-primary:hover{
+	background: @background-color-hover !important;
+	color: @color-hover !important;
+	border: none !important;
+	text-decoration: none !important;
+	opacity: 1 !important;
+}
+
+a.btn-primary:before{
+	content: "" !important;
+	position: absolute !important;
+	bottom: 0 !important;
+	left: 50% !important;
+	right: 50% !important;
+	display: block !important;
+	height: 4px !important;
+	background: @border-hover !important;
+	transition: all 0.4s !important;
+}
+a.btn-primary:hover:before{
+	left: 0 !important;
+	right: 0 !important;
+	background: @border-hover !important;
+}

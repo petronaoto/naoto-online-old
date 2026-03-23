@@ -1,0 +1,53 @@
+a.btn-primary {
+  position: relative !important;
+  display: inline-block !important;
+  background: #111111 !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 0 !important;
+  width: 100% !important;
+  font-size: 120% !important;
+  line-height: 1.9 !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+  padding: 1em 2em !important;
+  transition: all 0.4s !important;
+}
+a.btn-primary:visited {
+  background: #111111 !important;
+  color: #ffffff !important;
+  border: none !important;
+  text-decoration: none !important;
+}
+a.btn-primary:active {
+  background: #f0f0f0 !important;
+  color: #111111 !important;
+  border: none !important;
+  text-decoration: none !important;
+}
+a.btn-primary:hover {
+  background: #f0f0f0 !important;
+  color: #111111 !important;
+  border: none !important;
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+a.btn-primary:before {
+  content: "" !important;
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 50% !important;
+  right: 50% !important;
+  display: block !important;
+  height: 4px !important;
+  background: #111111 !important;
+  transition: all 0.4s !important;
+}
+a.btn-primary:hover:before {
+  left: 0 !important;
+  right: 0 !important;
+  background: #111111 !important;
+}
+
+
